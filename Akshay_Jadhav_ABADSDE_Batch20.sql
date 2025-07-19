@@ -87,6 +87,7 @@ SELECT ProductName
 FROM products AS P INNER JOIN suppliers AS S
 ON P.SupplierID = S.SupplierID
 WHERE SupplierName = "Exotic Liquids";
+WHERE SupplierName = "Exotic Liquid";
 
 -- Question 11 (Marks: 5)
 -- Objective: Rank records using aggregation and sort
