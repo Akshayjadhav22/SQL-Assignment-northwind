@@ -80,7 +80,7 @@ GROUP BY EmployeeID;
 
 -- Question 10 (Marks: 3)
 -- Objective: Filter results using values from a joined table
--- List the names of products supplied by "Exotic Liquids".
+-- List the names of products supplied by "Exotic Liquid".
 -- Question Template: Display ProductName Column
 
 SELECT ProductName
